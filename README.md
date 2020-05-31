@@ -1,0 +1,3 @@
+- Do not forget to add a Go-Remote debug configuration in Goland
+- Do not forget to change GOPATH for the project to map to the "src" directory of this project.
+- Enjoy
